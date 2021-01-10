@@ -246,7 +246,7 @@ hr {
 #s2 img {
   margin-top: 38%;
   margin-left: 15%;
-  animation: shake 0.0000009s;
+  animation: shake 10s;
   animation-iteration-count: infinite;
 }
 
